@@ -1,0 +1,49 @@
+.user-img-box{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1.5px solid red;
+}
+.user-img-box img{
+    width: 100%;
+}
+.content {
+    min-height: 500px;
+}
+.content h1{
+    margin-bottom: 10px;
+}
+.content .pannel{
+    border: 2px solid #2c3e50;
+    border-radius: 5px;
+}
+.content .pannel .pannel-top{
+    padding: 5px;
+    background: #3498db;
+    color: #fff;
+}
+.content .pannel .pannel-top .fas{
+    font-size: 36px;
+    margin-left: 3px;
+}
+.content .pannel .pannel-top .digit{
+    font-size: 26px;
+    font-weight: 600;
+   margin-left: 8px;
+    display: inline-block;
+    text-align: center;
+}
+
+.content .pannel .pannel-top .tag{
+    font-weight: 600;
+}
+.content .pannel .pannel-bottom{
+    background: rgba(236, 240, 241, 0.42);
+    padding: 5px 0;
+}
+
+
+
+
+
